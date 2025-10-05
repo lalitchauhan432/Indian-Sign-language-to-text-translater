@@ -1,1 +1,0 @@
-# Indian-Sign-language-to-text-translater
